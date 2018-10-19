@@ -1,0 +1,4 @@
+David tiene promedio igual a 3.6
+Gonzalo tiene promedio igual a 5.25
+Mai tiene promedio igual a 9.5
+JP tiene promedio igual a 10.0
